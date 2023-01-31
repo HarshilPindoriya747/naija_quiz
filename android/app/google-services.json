@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776818378968",
+    "project_id": "naija-quiz-d350a",
+    "storage_bucket": "naija-quiz-d350a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776818378968:android:4b0a4267a75c5ef7566fad",
+        "android_client_info": {
+          "package_name": "com.Naija.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776818378968-8drc7fdm96mb59glu30ng8vgd3h56pph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Naija.quiz",
+            "certificate_hash": "c16137365faf126427427bc7f171bf1edcc0dc85"
+          }
+        },
+        {
+          "client_id": "776818378968-a2mfoekol05rub0r6sf145q49cm8h7qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFyhYDG8DRCvYSZwfjWIrxu4svNQQ5He8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776818378968-a2mfoekol05rub0r6sf145q49cm8h7qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
